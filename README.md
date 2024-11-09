@@ -13,8 +13,8 @@ For SP installation simply:
 1. Drag and drop the dlc.rpf into your appropriate GTA V directory, specifically: `GTAV/mods/update/x64/dlcpacks/springo_novinewoodsign`
 2. Make sure to modify your dlclist.xml with the provided code in the appropriate file. This is located in: `GTAV/mods/update/update.rpf/common/data/dlclist.xml`
 
-Usage:
-Pretty simple, load it in and your Vinewood sign will be removed.
+# Usage:
+Pretty simple, load it in and your Vinewood sign will be removed. The codewalker project has also been provided if you want to make any changes. Completely open source.
 
-Contact:
+# Contact:
 Contact me on discord at: springo_1 if you have any questions or concerns

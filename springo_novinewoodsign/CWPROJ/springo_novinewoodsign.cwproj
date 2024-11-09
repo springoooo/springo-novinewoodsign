@@ -1,0 +1,27 @@
+<CodeWalkerProject>
+  <Name>springo_novinewoodsign</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>apa_ch2_03_long_5.ymap</Item>
+    <Item>apa_ch2_03_strm_0.ymap</Item>
+    <Item>apa_ch2_03_critical_3.ymap</Item>
+    <Item>apa_ch2_03.ymap</Item>
+    <Item>apa_ch2_03_long_6.ymap</Item>
+    <Item>apa_ch2_03_strm_1.ymap</Item>
+    <Item>apa_ch2_03_critical_4.ymap</Item>
+    <Item>apa_ch2_lod3.ymap</Item>
+    <Item>apa_ch2_03_long_4.ymap</Item>
+    <Item>apa_ch2_03_critical_2.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
